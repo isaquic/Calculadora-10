@@ -1,0 +1,55 @@
+body {
+    background-color: orange;
+}
+
+.titulo {
+    text-align: center;
+    color: white;
+    font-family: 'Uchen', serif;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    background: rgb(255, 255, 255);
+    width: 300px;
+    height: 100px;
+}
+
+
+.centralizar {
+    
+    width: 250px;
+    height: 100px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text-valor {
+    text-align: center;
+    font-size: small;
+    font-family: 'Uchen', serif;  
+}
+
+.valor {
+    margin-left: 40px;
+
+}
+
+
+.botao {
+    width: 0;
+    margin-left: 44%;
+    margin-top: 15px;
+}
+
+.button {
+    width: 200px;
+}
+
+.result {
+    text-align: center;
+    font-family: 'Uchen', serif;
+    color: white;
+}
